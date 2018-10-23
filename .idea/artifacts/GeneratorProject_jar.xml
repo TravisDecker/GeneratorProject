@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GeneratorProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GeneratorProject_jar</output-path>
+    <root id="archive" name="GeneratorProject.jar">
+      <element id="module-output" name="GeneratorProject" />
+    </root>
+  </artifact>
+</component>
